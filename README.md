@@ -9,7 +9,7 @@ supported by Android’s MediaPlayer API, including DASH and SmoothStreaming
 adaptive playbacks. Unlike the MediaPlayer API, ExoPlayer is easy to
 customize and extend, and can be updated through Play Store application
 updates.
-
+ExoPlayer 是 Android 上一个应用级的媒体播放器。它为 Android MediaPlayer 的 API 在播放本地或在线的视频与音频上提供了一个候选。ExoPlayer 支持一些 Android MediaPlayer API 无法提供的特性，包括 DASH 和 SmoothStreaming 自适应回放，持久的高速缓存和自定义渲染器。不像 MediaPlayer API，EXOPlayer 很容易定制和扩展，而且它可以通过 Play Store 更新升级。
 ## News ##
 
 Read news, hints and tips on the [news][] page.
